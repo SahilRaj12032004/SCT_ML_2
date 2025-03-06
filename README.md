@@ -12,7 +12,9 @@ A machine learning-based web app that predicts house prices based on input featu
 
 Here is a sample chart from the analysis:
 
-![Chart](K-Means Segmentation chart.png)
+![Elbow Method](https://github.com/SahilRaj12032004/SCT_ML_2/blob/097f951c69a0b317b1dcf8c8b69454bbb594a523/elbow%20method%20chart.png)
+![k-mean cluster segmentation](https://github.com/SahilRaj12032004/SCT_ML_2/blob/097f951c69a0b317b1dcf8c8b69454bbb594a523/K-Means%20Segmentation%20chart.png)
+
 
 ---
 
