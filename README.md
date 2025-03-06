@@ -12,7 +12,7 @@ A machine learning-based web app that predicts house prices based on input featu
 
 Here is a sample chart from the analysis:
 
-![Chart](chart.png)
+![Chart](K-Means Segmentation chart.png)
 
 ---
 
