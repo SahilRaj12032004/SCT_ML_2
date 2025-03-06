@@ -1,10 +1,18 @@
 
-## **House Price Predictor** 🏡💰  
+## **KNN-Model Predict Clusters**  
 A machine learning-based web app that predicts house prices based on input features. Built with **Flask (Backend), React (Frontend), and a k-Nearest Neighbors (KNN) model**.
 
 ### 🔗 **Live Links**  
 - **Live Link**: [Live on Vercel](https://sct-ml-2-qaw1-45wfotr0q-sahilraj12032004s-projects.vercel.app/)    
-- **GitHub Repository**: [View Code](https://github.com/SahilRaj12032004/SCT_ML_2.git )  
+- **GitHub Repository**: [View Code](https://github.com/SahilRaj12032004/SCT_ML_2.git )
+
+- # My Project
+
+## Data Visualization
+
+Here is a sample chart from the analysis:
+
+![Chart](chart.png)
 
 ---
 
@@ -91,6 +99,6 @@ npm start
 
 ---
 
-**🔗 Connect with me on LinkedIn**: [Your Profile](https://www.linkedin.com/in/sahil-raj-o1/)  
+**🔗 Connect with me on LinkedIn**: [My Profile](https://www.linkedin.com/in/sahil-raj-o1/)  
 
 💡 **Contributions, issues, and feedback are welcome!** 🚀 
