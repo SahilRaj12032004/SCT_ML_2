@@ -3,7 +3,7 @@
 A machine learning-based web app that predicts house prices based on input features. Built with **Flask (Backend), React (Frontend), and a k-Nearest Neighbors (KNN) model**.
 
 ### 🔗 **Live Links**  
-- **Live Link**: [Live on Vercel](https://github.com/SahilRaj12032004/SCT_ML_2/deployments/Production%20%E2%80%93%20sct-ml-2-qaw1  )    
+- **Live Link**: [Live on Vercel](https://sct-ml-2-qaw1-45wfotr0q-sahilraj12032004s-projects.vercel.app/)    
 - **GitHub Repository**: [View Code](https://github.com/SahilRaj12032004/SCT_ML_2.git )  
 
 ---
